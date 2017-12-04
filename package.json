@@ -37,7 +37,7 @@
     "debuglog": "^1.0.1",
     "js-yaml": "^3.2.6",
     "path-to-regexp": "^1.2.1",
-    "swaggerize-routes-jsonschema": "git@github.com:marvelapp/swaggerize-routes.git#feature/validate_with_ajv"
+    "swaggerize-routes-jsonschema": "git@github.com:marvelapp/swaggerize-routes.git#e8e189c0b0219d39c5ae92cabd761c16042a8029"
   },
   "peerDependencies": {
     "express": "^4.0.0"
